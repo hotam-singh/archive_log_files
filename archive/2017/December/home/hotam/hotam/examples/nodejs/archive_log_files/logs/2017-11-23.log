@@ -1,0 +1,1693 @@
+2017-11-23T11:12:14.733Z - undefined - undefined - [info] : App connected with redis server
+2017-11-23T11:12:15.179Z - undefined - undefined - [info] : typeID : 3
+2017-11-23T11:12:15.180Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:12:15.190Z - undefined - undefined - [info] : typeID : 0
+2017-11-23T11:12:15.190Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:12:15.206Z - undefined - undefined - [info] : typeID : 1
+2017-11-23T11:12:15.206Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:12:15.287Z - undefined - undefined - [info] : typeID : 2
+2017-11-23T11:12:15.287Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:12:15.300Z - undefined - undefined - [info] : typeID : 4
+2017-11-23T11:12:15.301Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:12:15.486Z - undefined - undefined - [info] : typeID : 5
+2017-11-23T11:12:15.486Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:12:15.487Z - undefined - undefined - [info] : typeID : 6
+2017-11-23T11:12:15.487Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:12:15.487Z - undefined - undefined - [info] : typeID : 7
+2017-11-23T11:12:15.487Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:12:15.492Z - undefined - undefined - [info] : typeID : 9
+2017-11-23T11:12:15.492Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:12:15.496Z - undefined - undefined - [info] : typeID : 8
+2017-11-23T11:12:15.496Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:12:15.533Z - undefined - undefined - [info] : ETP started: 0.0.0.0:7000
+2017-11-23T11:12:15.533Z - undefined - undefined - [info] : Modules ready and launched
+2017-11-23T11:12:15.547Z - undefined - undefined - [info] : Blocks 4912
+2017-11-23T11:12:15.548Z - undefined - undefined - [info] : Genesis block matched with database
+2017-11-23T11:12:15.568Z - undefined - undefined - [info] : Blockchain ready
+2017-11-23T11:12:15.570Z - undefined - undefined - [info] : Loading 1 delegates from config
+2017-11-23T11:12:15.584Z - undefined - undefined - [info] : Forging enabled on account: 4995063339468361088E
+2017-11-23T11:12:15.585Z - undefined - undefined - [info] : Imported peers from database
+2017-11-23T11:12:15.598Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:12:15.599Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:12:15.655Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:12:15.790Z - undefined - undefined - [info] : Forged new block id: 1729599237846611993 height: 4913 round: 4913 slot: 4732633 reward:500000000
+2017-11-23T11:12:15.795Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:12:15.797Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:12:15.799Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:12:15.801Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:12:15.802Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:12:15.803Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:12:15.804Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:12:15.805Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:12:15.806Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:12:15.808Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:12:15.809Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:12:15.809Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:12:15.811Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:12:15.812Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:12:15.813Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:12:15.813Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T11:12:20.611Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:12:20.804Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:12:21.150Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:12:21.263Z - undefined - undefined - [info] : Forged new block id: 1791208414708678582 height: 4914 round: 4914 slot: 4732634 reward:500000000
+2017-11-23T11:12:25.612Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:12:30.277Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:12:30.353Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:12:30.453Z - undefined - undefined - [info] : Forged new block id: 9412699300229987635 height: 4915 round: 4915 slot: 4732635 reward:500000000
+2017-11-23T11:12:30.614Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:13:02.191Z - undefined - undefined - [info] : App connected with redis server
+2017-11-23T11:13:02.621Z - undefined - undefined - [info] : typeID : 3
+2017-11-23T11:13:02.622Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:13:02.633Z - undefined - undefined - [info] : typeID : 0
+2017-11-23T11:13:02.633Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:13:02.654Z - undefined - undefined - [info] : typeID : 1
+2017-11-23T11:13:02.654Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:13:02.745Z - undefined - undefined - [info] : typeID : 2
+2017-11-23T11:13:02.746Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:13:02.759Z - undefined - undefined - [info] : typeID : 4
+2017-11-23T11:13:02.759Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:13:02.955Z - undefined - undefined - [info] : typeID : 5
+2017-11-23T11:13:02.956Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:13:02.956Z - undefined - undefined - [info] : typeID : 6
+2017-11-23T11:13:02.956Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:13:02.956Z - undefined - undefined - [info] : typeID : 7
+2017-11-23T11:13:02.956Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:13:02.960Z - undefined - undefined - [info] : typeID : 9
+2017-11-23T11:13:02.960Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:13:02.963Z - undefined - undefined - [info] : typeID : 8
+2017-11-23T11:13:02.963Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:13:02.995Z - undefined - undefined - [info] : ETP started: 0.0.0.0:7000
+2017-11-23T11:13:02.996Z - undefined - undefined - [info] : Modules ready and launched
+2017-11-23T11:13:03.009Z - undefined - undefined - [info] : Blocks 4915
+2017-11-23T11:13:03.010Z - undefined - undefined - [info] : Genesis block matched with database
+2017-11-23T11:13:03.035Z - undefined - undefined - [info] : Blockchain ready
+2017-11-23T11:13:03.038Z - undefined - undefined - [info] : Loading 1 delegates from config
+2017-11-23T11:13:03.051Z - undefined - undefined - [info] : Forging enabled on account: 4995063339468361088E
+2017-11-23T11:13:03.052Z - undefined - undefined - [info] : Imported peers from database
+2017-11-23T11:13:03.064Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:13:03.065Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:13:03.304Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:13:03.416Z - undefined - undefined - [info] : Forged new block id: 631535545871482050 height: 4916 round: 4916 slot: 4732638 reward:500000000
+2017-11-23T11:13:03.421Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:13:03.423Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:13:03.426Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:13:03.428Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:13:03.429Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:13:03.430Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:13:03.431Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:13:03.432Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:13:03.433Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:13:03.434Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:13:03.435Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:13:03.436Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:13:03.437Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:13:03.438Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:13:03.438Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:13:03.439Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T11:15:00.153Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:15:18.656Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:15:20.486Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:15:22.161Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:15:22.169Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:15:22.178Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:15:22.179Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:15:22.179Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:15:22.184Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:15:22.187Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:15:22.190Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:15:22.192Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:15:22.193Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:15:22.194Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:15:22.197Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:15:22.198Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:15:22.198Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T11:15:22.495Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:15:22.571Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:15:22.683Z - undefined - undefined - [info] : Forged new block id: 4489799021448075740 height: 4917 round: 4917 slot: 4732652 reward:500000000
+2017-11-23T11:15:30.949Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:15:33.586Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:15:34.168Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:15:36.857Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:15:47.877Z - undefined - undefined - [info] : Forged new block id: 8682889680977651508 height: 4918 round: 4918 slot: 4732653 reward:500000000
+2017-11-23T11:15:47.883Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:16:36.861Z - undefined - undefined - [info] : App connected with redis server
+2017-11-23T11:16:37.292Z - undefined - undefined - [info] : typeID : 3
+2017-11-23T11:16:37.292Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:16:37.303Z - undefined - undefined - [info] : typeID : 0
+2017-11-23T11:16:37.303Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:16:37.322Z - undefined - undefined - [info] : typeID : 1
+2017-11-23T11:16:37.322Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:16:37.397Z - undefined - undefined - [info] : typeID : 2
+2017-11-23T11:16:37.397Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:16:37.409Z - undefined - undefined - [info] : typeID : 4
+2017-11-23T11:16:37.409Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:16:37.599Z - undefined - undefined - [info] : typeID : 5
+2017-11-23T11:16:37.599Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:16:37.599Z - undefined - undefined - [info] : typeID : 6
+2017-11-23T11:16:37.600Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:16:37.600Z - undefined - undefined - [info] : typeID : 7
+2017-11-23T11:16:37.600Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:16:37.604Z - undefined - undefined - [info] : typeID : 9
+2017-11-23T11:16:37.604Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:16:37.607Z - undefined - undefined - [info] : typeID : 8
+2017-11-23T11:16:37.608Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T11:16:37.647Z - undefined - undefined - [info] : ETP started: 0.0.0.0:7000
+2017-11-23T11:16:37.647Z - undefined - undefined - [info] : Modules ready and launched
+2017-11-23T11:16:37.659Z - undefined - undefined - [info] : Blocks 4918
+2017-11-23T11:16:37.659Z - undefined - undefined - [info] : Genesis block matched with database
+2017-11-23T11:16:37.681Z - undefined - undefined - [info] : Blockchain ready
+2017-11-23T11:16:37.683Z - undefined - undefined - [info] : Loading 1 delegates from config
+2017-11-23T11:16:37.697Z - undefined - undefined - [info] : Forging enabled on account: 4995063339468361088E
+2017-11-23T11:16:37.697Z - undefined - undefined - [info] : Imported peers from database
+2017-11-23T11:16:37.709Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:16:37.710Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:16:37.798Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:16:37.906Z - undefined - undefined - [info] : Forged new block id: 2015337813748616839 height: 4919 round: 4919 slot: 4732659 reward:500000000
+2017-11-23T11:16:37.910Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:16:37.911Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:16:37.913Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:16:37.915Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:16:37.916Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:16:37.917Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:16:37.918Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:16:37.919Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:16:37.920Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:16:37.921Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:16:37.922Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:16:37.923Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:16:37.924Z - undefined - undefined - [info] : Starting sync
+2017-11-23T11:16:37.925Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:16:37.926Z - undefined - undefined - [info] : Finished sync
+2017-11-23T11:16:37.926Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T11:16:40.915Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:16:40.978Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:16:41.080Z - undefined - undefined - [info] : Forged new block id: 17740893600565532006 height: 4920 round: 4920 slot: 4732660 reward:500000000
+2017-11-23T11:16:42.724Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:16:49.274Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:16:50.279Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:16:50.354Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:16:50.484Z - undefined - undefined - [info] : Forged new block id: 10499088587117511803 height: 4921 round: 4921 slot: 4732661 reward:500000000
+2017-11-23T11:16:54.275Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:16:59.275Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:17:00.511Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:17:00.589Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:17:00.701Z - undefined - undefined - [info] : Forged new block id: 15641969481661611617 height: 4922 round: 4922 slot: 4732662 reward:500000000
+2017-11-23T11:17:04.275Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:17:09.276Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:17:10.712Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:17:10.782Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:17:10.953Z - undefined - undefined - [info] : Forged new block id: 10568746018783095549 height: 4923 round: 4923 slot: 4732663 reward:500000000
+2017-11-23T11:17:14.278Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:17:19.278Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:17:20.964Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:17:21.028Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:17:21.153Z - undefined - undefined - [info] : Forged new block id: 18415901697685794423 height: 4924 round: 4924 slot: 4732664 reward:500000000
+2017-11-23T11:17:24.281Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:17:29.282Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:17:30.167Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:17:30.238Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:17:30.342Z - undefined - undefined - [info] : Forged new block id: 6301777336099380132 height: 4925 round: 4925 slot: 4732665 reward:500000000
+2017-11-23T11:17:34.284Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:17:39.284Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:17:40.353Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:17:40.430Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:17:40.527Z - undefined - undefined - [info] : Forged new block id: 16293641991513088838 height: 4926 round: 4926 slot: 4732666 reward:500000000
+2017-11-23T11:17:44.286Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:17:49.288Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T11:17:50.535Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:17:50.606Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T11:17:50.703Z - undefined - undefined - [info] : Forged new block id: 907344507388958160 height: 4927 round: 4927 slot: 4732667 reward:500000000
+2017-11-23T12:26:34.710Z - undefined - undefined - [info] : App connected with redis server
+2017-11-23T12:26:35.130Z - undefined - undefined - [info] : typeID : 3
+2017-11-23T12:26:35.130Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:26:35.142Z - undefined - undefined - [info] : typeID : 0
+2017-11-23T12:26:35.142Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:26:35.163Z - undefined - undefined - [info] : typeID : 1
+2017-11-23T12:26:35.164Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:26:35.252Z - undefined - undefined - [info] : typeID : 2
+2017-11-23T12:26:35.252Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:26:35.264Z - undefined - undefined - [info] : typeID : 4
+2017-11-23T12:26:35.264Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:26:35.464Z - undefined - undefined - [info] : typeID : 5
+2017-11-23T12:26:35.464Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:26:35.464Z - undefined - undefined - [info] : typeID : 6
+2017-11-23T12:26:35.464Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:26:35.464Z - undefined - undefined - [info] : typeID : 7
+2017-11-23T12:26:35.465Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:26:35.469Z - undefined - undefined - [info] : typeID : 9
+2017-11-23T12:26:35.469Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:26:35.473Z - undefined - undefined - [info] : typeID : 8
+2017-11-23T12:26:35.473Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:26:35.508Z - undefined - undefined - [info] : ETP started: 0.0.0.0:7000
+2017-11-23T12:26:35.508Z - undefined - undefined - [info] : Modules ready and launched
+2017-11-23T12:26:35.522Z - undefined - undefined - [info] : Blocks 4927
+2017-11-23T12:26:35.524Z - undefined - undefined - [info] : Genesis block matched with database
+2017-11-23T12:26:35.556Z - undefined - undefined - [info] : Blockchain ready
+2017-11-23T12:26:35.558Z - undefined - undefined - [info] : Loading 1 delegates from config
+2017-11-23T12:26:35.571Z - undefined - undefined - [info] : Forging enabled on account: 4995063339468361088E
+2017-11-23T12:26:35.572Z - undefined - undefined - [info] : Imported peers from database
+2017-11-23T12:26:35.586Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:26:35.586Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:26:35.675Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:26:35.789Z - undefined - undefined - [info] : Forged new block id: 496339490566704094 height: 4928 round: 4928 slot: 4733079 reward:500000000
+2017-11-23T12:26:35.792Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:26:35.794Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:26:35.797Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:26:35.799Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:26:35.800Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:26:35.801Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:26:35.802Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:26:35.803Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:26:35.804Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:26:35.805Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:26:35.806Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:26:35.807Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:26:35.807Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:26:35.808Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:26:35.808Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:26:35.809Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T12:32:38.048Z - undefined - undefined - [info] : App connected with redis server
+2017-11-23T12:32:38.551Z - undefined - undefined - [info] : typeID : 3
+2017-11-23T12:32:38.551Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:32:38.562Z - undefined - undefined - [info] : typeID : 0
+2017-11-23T12:32:38.562Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:32:38.587Z - undefined - undefined - [info] : typeID : 1
+2017-11-23T12:32:38.587Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:32:38.680Z - undefined - undefined - [info] : typeID : 2
+2017-11-23T12:32:38.680Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:32:38.693Z - undefined - undefined - [info] : typeID : 4
+2017-11-23T12:32:38.693Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:32:38.901Z - undefined - undefined - [info] : typeID : 5
+2017-11-23T12:32:38.901Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:32:38.901Z - undefined - undefined - [info] : typeID : 6
+2017-11-23T12:32:38.901Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:32:38.901Z - undefined - undefined - [info] : typeID : 7
+2017-11-23T12:32:38.901Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:32:38.906Z - undefined - undefined - [info] : typeID : 9
+2017-11-23T12:32:38.906Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:32:38.909Z - undefined - undefined - [info] : typeID : 8
+2017-11-23T12:32:38.909Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:32:38.945Z - undefined - undefined - [info] : ETP started: 0.0.0.0:7000
+2017-11-23T12:32:38.946Z - undefined - undefined - [info] : Modules ready and launched
+2017-11-23T12:32:38.959Z - undefined - undefined - [info] : Blocks 4928
+2017-11-23T12:32:38.960Z - undefined - undefined - [info] : Genesis block matched with database
+2017-11-23T12:32:38.983Z - undefined - undefined - [info] : Blockchain ready
+2017-11-23T12:32:38.986Z - undefined - undefined - [info] : Loading 1 delegates from config
+2017-11-23T12:32:38.999Z - undefined - undefined - [info] : Forging enabled on account: 4995063339468361088E
+2017-11-23T12:32:39.000Z - undefined - undefined - [info] : Imported peers from database
+2017-11-23T12:32:39.013Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:32:39.014Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:32:39.061Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:32:39.187Z - undefined - undefined - [info] : Forged new block id: 7024750896123696038 height: 4929 round: 4929 slot: 4733115 reward:500000000
+2017-11-23T12:32:39.191Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:32:39.195Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:32:39.197Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:32:39.199Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:32:39.200Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:32:39.201Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:32:39.202Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:32:39.203Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:32:39.204Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:32:39.205Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:32:39.206Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:32:39.207Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:32:39.207Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:32:39.208Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:32:39.209Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:32:39.209Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T12:32:40.195Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:32:40.240Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:32:40.350Z - undefined - undefined - [info] : Forged new block id: 8668738797938053558 height: 4930 round: 4930 slot: 4733116 reward:500000000
+2017-11-23T12:32:44.024Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:32:54.043Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:32:54.047Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:32:54.087Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:32:54.208Z - undefined - undefined - [info] : Forged new block id: 9061354564219044052 height: 4931 round: 4931 slot: 4733117 reward:500000000
+2017-11-23T12:32:59.045Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:33:00.217Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:33:00.269Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:33:00.379Z - undefined - undefined - [info] : Forged new block id: 1848594338309274542 height: 4932 round: 4932 slot: 4733118 reward:500000000
+2017-11-23T12:33:04.048Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:33:05.088Z - undefined - undefined - [error] : API error /api/accounts/lock Cannot read property 'id' of undefined
+2017-11-23T12:33:09.049Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:33:10.394Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:33:10.436Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:33:10.539Z - undefined - undefined - [info] : Forged new block id: 15745160977256175589 height: 4933 round: 4933 slot: 4733119 reward:500000000
+2017-11-23T12:33:14.049Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:33:19.050Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:33:20.550Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:33:20.602Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:33:20.701Z - undefined - undefined - [info] : Forged new block id: 15612976544959686914 height: 4934 round: 4934 slot: 4733120 reward:500000000
+2017-11-23T12:33:24.113Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:33:44.294Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:33:44.305Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:33:44.305Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:33:44.306Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:33:44.306Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:33:44.307Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:33:44.309Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:33:44.311Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:33:44.313Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:33:44.320Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:33:44.321Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:33:44.322Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:33:44.323Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:33:44.324Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:33:44.326Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:33:44.326Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:33:44.326Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T12:33:44.330Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:33:44.370Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:33:44.475Z - undefined - undefined - [info] : Forged new block id: 13526314462771714188 height: 4935 round: 4935 slot: 4733122 reward:500000000
+2017-11-23T12:35:16.197Z - undefined - undefined - [info] : App connected with redis server
+2017-11-23T12:35:16.698Z - undefined - undefined - [info] : typeID : 3
+2017-11-23T12:35:16.699Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:35:16.712Z - undefined - undefined - [info] : typeID : 0
+2017-11-23T12:35:16.712Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:35:16.732Z - undefined - undefined - [info] : typeID : 1
+2017-11-23T12:35:16.732Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:35:16.826Z - undefined - undefined - [info] : typeID : 2
+2017-11-23T12:35:16.826Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:35:16.839Z - undefined - undefined - [info] : typeID : 4
+2017-11-23T12:35:16.839Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:35:17.038Z - undefined - undefined - [info] : typeID : 5
+2017-11-23T12:35:17.038Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:35:17.039Z - undefined - undefined - [info] : typeID : 6
+2017-11-23T12:35:17.039Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:35:17.039Z - undefined - undefined - [info] : typeID : 7
+2017-11-23T12:35:17.039Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:35:17.044Z - undefined - undefined - [info] : typeID : 9
+2017-11-23T12:35:17.044Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:35:17.048Z - undefined - undefined - [info] : typeID : 8
+2017-11-23T12:35:17.048Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:35:17.085Z - undefined - undefined - [info] : ETP started: 0.0.0.0:7000
+2017-11-23T12:35:17.086Z - undefined - undefined - [info] : Modules ready and launched
+2017-11-23T12:35:17.100Z - undefined - undefined - [info] : Blocks 4935
+2017-11-23T12:35:17.101Z - undefined - undefined - [info] : Genesis block matched with database
+2017-11-23T12:35:17.121Z - undefined - undefined - [info] : Blockchain ready
+2017-11-23T12:35:17.123Z - undefined - undefined - [info] : Loading 1 delegates from config
+2017-11-23T12:35:17.136Z - undefined - undefined - [info] : Forging enabled on account: 4995063339468361088E
+2017-11-23T12:35:17.137Z - undefined - undefined - [info] : Imported peers from database
+2017-11-23T12:35:17.150Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:35:17.161Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:35:17.244Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:35:17.381Z - undefined - undefined - [info] : Forged new block id: 6881614744256142720 height: 4936 round: 4936 slot: 4733131 reward:500000000
+2017-11-23T12:35:17.385Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:35:17.389Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:35:17.392Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:35:17.393Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:35:17.394Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:35:17.395Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:35:17.396Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:35:17.397Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:35:17.398Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:35:17.399Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:35:17.400Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:35:17.400Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:35:17.402Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:35:17.403Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:35:17.403Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:35:17.404Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T12:35:20.391Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:35:20.439Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:35:20.727Z - undefined - undefined - [info] : Forged new block id: 934380154659635715 height: 4937 round: 4937 slot: 4733132 reward:500000000
+2017-11-23T12:35:22.168Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:35:27.170Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:35:27.363Z - undefined - undefined - [error] : API error /api/accounts/open/ Cannot read property 'id' of undefined
+2017-11-23T12:35:30.740Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:35:30.795Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:35:30.907Z - undefined - undefined - [info] : Forged new block id: 16219057338618631994 height: 4938 round: 4938 slot: 4733133 reward:500000000
+2017-11-23T12:35:32.172Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:35:37.175Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:51:23.932Z - undefined - undefined - [error] : API error /api/accounts/open/ Cannot read property 'id' of undefined
+2017-11-23T12:51:23.954Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:51:23.978Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:23.978Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:51:24.014Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:51:24.018Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:51:24.034Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:24.036Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:51:24.038Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:51:24.039Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:24.039Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:51:24.041Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:51:24.042Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:24.043Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:51:24.044Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:51:24.046Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:24.047Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:51:24.047Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T12:51:24.052Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:24.133Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:24.340Z - undefined - undefined - [info] : Forged new block id: 8431012311444330379 height: 4939 round: 4939 slot: 4733228 reward:500000000
+2017-11-23T12:51:29.001Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:51:30.349Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:30.383Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:30.487Z - undefined - undefined - [info] : Forged new block id: 1439768166204062231 height: 4940 round: 4940 slot: 4733229 reward:500000000
+2017-11-23T12:51:34.003Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:51:40.086Z - undefined - undefined - [info] : App connected with redis server
+2017-11-23T12:51:40.636Z - undefined - undefined - [info] : typeID : 3
+2017-11-23T12:51:40.636Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:51:40.647Z - undefined - undefined - [info] : typeID : 0
+2017-11-23T12:51:40.647Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:51:40.666Z - undefined - undefined - [info] : typeID : 1
+2017-11-23T12:51:40.666Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:51:40.748Z - undefined - undefined - [info] : typeID : 2
+2017-11-23T12:51:40.748Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:51:40.760Z - undefined - undefined - [info] : typeID : 4
+2017-11-23T12:51:40.760Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:51:40.960Z - undefined - undefined - [info] : typeID : 5
+2017-11-23T12:51:40.960Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:51:40.960Z - undefined - undefined - [info] : typeID : 6
+2017-11-23T12:51:40.960Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:51:40.960Z - undefined - undefined - [info] : typeID : 7
+2017-11-23T12:51:40.960Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:51:40.965Z - undefined - undefined - [info] : typeID : 9
+2017-11-23T12:51:40.965Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:51:40.968Z - undefined - undefined - [info] : typeID : 8
+2017-11-23T12:51:40.968Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:51:41.006Z - undefined - undefined - [info] : ETP started: 0.0.0.0:7000
+2017-11-23T12:51:41.007Z - undefined - undefined - [info] : Modules ready and launched
+2017-11-23T12:51:41.020Z - undefined - undefined - [info] : Blocks 4940
+2017-11-23T12:51:41.021Z - undefined - undefined - [info] : Genesis block matched with database
+2017-11-23T12:51:41.043Z - undefined - undefined - [info] : Blockchain ready
+2017-11-23T12:51:41.045Z - undefined - undefined - [info] : Loading 1 delegates from config
+2017-11-23T12:51:41.062Z - undefined - undefined - [info] : Forging enabled on account: 4995063339468361088E
+2017-11-23T12:51:41.063Z - undefined - undefined - [info] : Imported peers from database
+2017-11-23T12:51:41.077Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:41.078Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:51:41.131Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:41.263Z - undefined - undefined - [info] : Forged new block id: 13142781914859398716 height: 4941 round: 4941 slot: 4733230 reward:500000000
+2017-11-23T12:51:41.267Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:51:41.270Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:41.272Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:51:41.274Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:51:41.275Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:41.276Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:51:41.277Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:51:41.278Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:41.279Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:51:41.280Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:51:41.281Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:41.281Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:51:41.283Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:51:41.284Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:41.284Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:51:41.285Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T12:51:46.090Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:51:50.279Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:50.315Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:51:50.418Z - undefined - undefined - [info] : Forged new block id: 13826001935463603059 height: 4942 round: 4942 slot: 4733231 reward:500000000
+2017-11-23T12:51:51.092Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:51:56.094Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:52:00.426Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:00.465Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:00.569Z - undefined - undefined - [info] : Forged new block id: 18185783163075091323 height: 4943 round: 4943 slot: 4733232 reward:500000000
+2017-11-23T12:52:01.095Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:52:06.096Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:52:10.584Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:10.617Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:10.738Z - undefined - undefined - [info] : Forged new block id: 5911207568629277783 height: 4944 round: 4944 slot: 4733233 reward:500000000
+2017-11-23T12:52:11.097Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:52:16.098Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:52:20.750Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:20.785Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:20.889Z - undefined - undefined - [info] : Forged new block id: 8109036815251595886 height: 4945 round: 4945 slot: 4733234 reward:500000000
+2017-11-23T12:52:21.101Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:52:26.103Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:52:30.902Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:31.103Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:31.108Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:52:31.217Z - undefined - undefined - [info] : Forged new block id: 188152321752089651 height: 4946 round: 4946 slot: 4733235 reward:500000000
+2017-11-23T12:52:40.232Z - undefined - undefined - [info] : App connected with redis server
+2017-11-23T12:52:40.818Z - undefined - undefined - [info] : typeID : 3
+2017-11-23T12:52:40.818Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:52:40.833Z - undefined - undefined - [info] : typeID : 0
+2017-11-23T12:52:40.833Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:52:40.855Z - undefined - undefined - [info] : typeID : 1
+2017-11-23T12:52:40.855Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:52:40.988Z - undefined - undefined - [info] : typeID : 2
+2017-11-23T12:52:40.989Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:52:41.003Z - undefined - undefined - [info] : typeID : 4
+2017-11-23T12:52:41.004Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:52:41.223Z - undefined - undefined - [info] : typeID : 5
+2017-11-23T12:52:41.224Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:52:41.224Z - undefined - undefined - [info] : typeID : 6
+2017-11-23T12:52:41.224Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:52:41.224Z - undefined - undefined - [info] : typeID : 7
+2017-11-23T12:52:41.224Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:52:41.229Z - undefined - undefined - [info] : typeID : 9
+2017-11-23T12:52:41.229Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:52:41.232Z - undefined - undefined - [info] : typeID : 8
+2017-11-23T12:52:41.232Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:52:41.271Z - undefined - undefined - [info] : ETP started: 0.0.0.0:7000
+2017-11-23T12:52:41.272Z - undefined - undefined - [info] : Modules ready and launched
+2017-11-23T12:52:41.285Z - undefined - undefined - [info] : Blocks 4946
+2017-11-23T12:52:41.285Z - undefined - undefined - [info] : Genesis block matched with database
+2017-11-23T12:52:41.307Z - undefined - undefined - [info] : Blockchain ready
+2017-11-23T12:52:41.309Z - undefined - undefined - [info] : Loading 1 delegates from config
+2017-11-23T12:52:41.320Z - undefined - undefined - [info] : Forging enabled on account: 4995063339468361088E
+2017-11-23T12:52:41.324Z - undefined - undefined - [info] : Imported peers from database
+2017-11-23T12:52:41.337Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:41.338Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:52:41.400Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:41.509Z - undefined - undefined - [info] : Forged new block id: 6872884487240845579 height: 4947 round: 4947 slot: 4733236 reward:500000000
+2017-11-23T12:52:41.513Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:52:41.515Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:41.516Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:52:41.518Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:52:41.520Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:41.521Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:52:41.523Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:52:41.524Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:41.525Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:52:41.527Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:52:41.528Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:41.528Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:52:41.530Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:52:41.530Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:41.531Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:52:41.531Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T12:52:46.350Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:52:50.524Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:50.562Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:52:50.734Z - undefined - undefined - [info] : Forged new block id: 11410894183978255871 height: 4948 round: 4948 slot: 4733237 reward:500000000
+2017-11-23T12:52:51.351Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:52:56.352Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:53:00.745Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:00.803Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:01.280Z - undefined - undefined - [info] : Forged new block id: 15361925451605521219 height: 4949 round: 4949 slot: 4733238 reward:500000000
+2017-11-23T12:53:01.352Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:53:14.589Z - undefined - undefined - [info] : App connected with redis server
+2017-11-23T12:53:15.215Z - undefined - undefined - [info] : typeID : 3
+2017-11-23T12:53:15.216Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:53:15.229Z - undefined - undefined - [info] : typeID : 0
+2017-11-23T12:53:15.229Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:53:15.254Z - undefined - undefined - [info] : typeID : 1
+2017-11-23T12:53:15.255Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:53:15.353Z - undefined - undefined - [info] : typeID : 2
+2017-11-23T12:53:15.353Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:53:15.362Z - undefined - undefined - [info] : typeID : 4
+2017-11-23T12:53:15.362Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:53:15.566Z - undefined - undefined - [info] : typeID : 5
+2017-11-23T12:53:15.566Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:53:15.566Z - undefined - undefined - [info] : typeID : 6
+2017-11-23T12:53:15.567Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:53:15.567Z - undefined - undefined - [info] : typeID : 7
+2017-11-23T12:53:15.567Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:53:15.572Z - undefined - undefined - [info] : typeID : 9
+2017-11-23T12:53:15.572Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:53:15.575Z - undefined - undefined - [info] : typeID : 8
+2017-11-23T12:53:15.576Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:53:15.618Z - undefined - undefined - [info] : ETP started: 0.0.0.0:7000
+2017-11-23T12:53:15.618Z - undefined - undefined - [info] : Modules ready and launched
+2017-11-23T12:53:15.633Z - undefined - undefined - [info] : Blocks 4949
+2017-11-23T12:53:15.633Z - undefined - undefined - [info] : Genesis block matched with database
+2017-11-23T12:53:15.656Z - undefined - undefined - [info] : Blockchain ready
+2017-11-23T12:53:15.658Z - undefined - undefined - [info] : Loading 1 delegates from config
+2017-11-23T12:53:15.674Z - undefined - undefined - [info] : Forging enabled on account: 4995063339468361088E
+2017-11-23T12:53:15.675Z - undefined - undefined - [info] : Imported peers from database
+2017-11-23T12:53:15.690Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:15.700Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:53:15.743Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:15.865Z - undefined - undefined - [info] : Forged new block id: 16368803215734841486 height: 4950 round: 4950 slot: 4733239 reward:500000000
+2017-11-23T12:53:15.869Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:53:15.871Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:15.873Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:53:15.875Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:53:15.876Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:15.877Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:53:15.878Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:53:15.880Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:15.881Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:53:15.882Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:53:15.884Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:15.885Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:53:15.886Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:53:15.888Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:15.888Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:53:15.889Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T12:53:20.705Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:53:20.905Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:20.943Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:21.039Z - undefined - undefined - [info] : Forged new block id: 9597798009360069339 height: 4951 round: 4951 slot: 4733240 reward:500000000
+2017-11-23T12:53:25.706Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:53:30.057Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:30.095Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:30.194Z - undefined - undefined - [info] : Forged new block id: 2530180941549789993 height: 4952 round: 4952 slot: 4733241 reward:500000000
+2017-11-23T12:53:30.707Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:53:35.708Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:53:40.205Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:40.241Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:40.346Z - undefined - undefined - [info] : Forged new block id: 7068211917720948993 height: 4953 round: 4953 slot: 4733242 reward:500000000
+2017-11-23T12:53:40.709Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:53:45.711Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:53:50.713Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:53:50.908Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:50.943Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:53:51.046Z - undefined - undefined - [info] : Forged new block id: 7569739561453097855 height: 4954 round: 4954 slot: 4733243 reward:500000000
+2017-11-23T12:53:55.714Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:54:01.169Z - undefined - undefined - [info] : App connected with redis server
+2017-11-23T12:54:01.723Z - undefined - undefined - [info] : typeID : 3
+2017-11-23T12:54:01.724Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:54:01.736Z - undefined - undefined - [info] : typeID : 0
+2017-11-23T12:54:01.736Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:54:01.758Z - undefined - undefined - [info] : typeID : 1
+2017-11-23T12:54:01.759Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:54:01.844Z - undefined - undefined - [info] : typeID : 2
+2017-11-23T12:54:01.845Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:54:01.859Z - undefined - undefined - [info] : typeID : 4
+2017-11-23T12:54:01.859Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:54:02.074Z - undefined - undefined - [info] : typeID : 5
+2017-11-23T12:54:02.074Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:54:02.074Z - undefined - undefined - [info] : typeID : 6
+2017-11-23T12:54:02.075Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:54:02.075Z - undefined - undefined - [info] : typeID : 7
+2017-11-23T12:54:02.075Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:54:02.079Z - undefined - undefined - [info] : typeID : 9
+2017-11-23T12:54:02.080Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:54:02.083Z - undefined - undefined - [info] : typeID : 8
+2017-11-23T12:54:02.083Z - undefined - undefined - [info] : asset type is attached successfully
+2017-11-23T12:54:02.119Z - undefined - undefined - [info] : ETP started: 0.0.0.0:7000
+2017-11-23T12:54:02.120Z - undefined - undefined - [info] : Modules ready and launched
+2017-11-23T12:54:02.132Z - undefined - undefined - [info] : Blocks 4954
+2017-11-23T12:54:02.133Z - undefined - undefined - [info] : Genesis block matched with database
+2017-11-23T12:54:02.156Z - undefined - undefined - [info] : Blockchain ready
+2017-11-23T12:54:02.159Z - undefined - undefined - [info] : Loading 1 delegates from config
+2017-11-23T12:54:02.173Z - undefined - undefined - [info] : Forging enabled on account: 4995063339468361088E
+2017-11-23T12:54:02.174Z - undefined - undefined - [info] : Imported peers from database
+2017-11-23T12:54:02.188Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:54:02.194Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:54:02.237Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:54:02.358Z - undefined - undefined - [info] : Forged new block id: 12898102810037104607 height: 4955 round: 4955 slot: 4733244 reward:500000000
+2017-11-23T12:54:02.363Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:54:02.366Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:54:02.368Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:54:02.370Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:54:02.371Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:54:02.372Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:54:02.374Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:54:02.375Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:54:02.375Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:54:02.377Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:54:02.379Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:54:02.379Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:54:02.381Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:54:02.382Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:54:02.382Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:54:02.383Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T12:54:07.200Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:54:10.378Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:54:10.419Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:54:10.527Z - undefined - undefined - [info] : Forged new block id: 17918018703417737437 height: 4956 round: 4956 slot: 4733245 reward:500000000
+2017-11-23T12:54:12.202Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:54:17.203Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:57:44.776Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:57:44.818Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:57:44.819Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T12:57:44.820Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:57:44.822Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:57:44.825Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:57:44.826Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:57:44.828Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:57:44.830Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:57:44.832Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:57:44.834Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:57:44.835Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:57:44.835Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:57:44.837Z - undefined - undefined - [info] : Starting sync
+2017-11-23T12:57:44.837Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:57:44.838Z - undefined - undefined - [info] : Finished sync
+2017-11-23T12:57:44.838Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T12:57:44.853Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:57:44.941Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T12:57:45.162Z - undefined - undefined - [info] : Forged new block id: 346481400553148311 height: 4957 round: 4957 slot: 4733266 reward:500000000
+2017-11-23T13:02:00.288Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:02:01.651Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:02:01.651Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:02:01.659Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:02:01.660Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:02:01.661Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:02:01.662Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:02:01.664Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:02:01.665Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:02:01.666Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:02:01.668Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:02:01.669Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:02:01.669Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:02:01.671Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:02:01.672Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:02:01.673Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:02:01.674Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T13:02:03.152Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:02:03.216Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:02:04.984Z - undefined - undefined - [info] : Forged new block id: 17632123099146388108 height: 4958 round: 4958 slot: 4733292 reward:500000000
+2017-11-23T13:08:34.977Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:09:28.336Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:09:31.872Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:09:31.918Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:09:31.923Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:09:31.927Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:09:31.929Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:09:31.933Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:09:31.944Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:09:31.949Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:09:31.954Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:09:31.964Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:09:31.966Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:09:31.968Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:09:31.972Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:09:31.977Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:09:31.979Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T13:09:32.903Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:09:32.949Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:09:33.234Z - undefined - undefined - [info] : Forged new block id: 8931474634710522574 height: 4959 round: 4959 slot: 4733337 reward:500000000
+2017-11-23T13:09:36.910Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:09:40.250Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:09:40.303Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:09:40.595Z - undefined - undefined - [info] : Forged new block id: 5452484506450618770 height: 4960 round: 4960 slot: 4733338 reward:500000000
+2017-11-23T13:09:41.912Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:09:46.913Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:09:50.609Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:09:50.656Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:09:50.756Z - undefined - undefined - [info] : Forged new block id: 6546162784382167372 height: 4961 round: 4961 slot: 4733339 reward:500000000
+2017-11-23T13:09:51.914Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:09:56.915Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:10:00.767Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:10:00.805Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:10:00.906Z - undefined - undefined - [info] : Forged new block id: 9553067849209760159 height: 4962 round: 4962 slot: 4733340 reward:500000000
+2017-11-23T13:10:01.916Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:10:06.917Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:10:10.918Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:10:11.086Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:10:11.210Z - undefined - undefined - [info] : Forged new block id: 16319620841701631483 height: 4963 round: 4963 slot: 4733341 reward:500000000
+2017-11-23T13:10:11.917Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:10:16.918Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:10:20.219Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:10:20.262Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:10:20.365Z - undefined - undefined - [info] : Forged new block id: 7230612057498455214 height: 4964 round: 4964 slot: 4733342 reward:500000000
+2017-11-23T13:10:21.919Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:10:26.921Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:10:30.374Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:10:30.437Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:10:30.552Z - undefined - undefined - [info] : Forged new block id: 2111706640668283859 height: 4965 round: 4965 slot: 4733343 reward:500000000
+2017-11-23T13:10:31.921Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:10:36.921Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:10:40.562Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:10:40.606Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:10:40.776Z - undefined - undefined - [info] : Forged new block id: 1343864124033818638 height: 4966 round: 4966 slot: 4733344 reward:500000000
+2017-11-23T13:10:41.922Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:10:46.923Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:10:50.784Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:10:51.018Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:10:51.170Z - undefined - undefined - [info] : Forged new block id: 5264529743550275894 height: 4967 round: 4967 slot: 4733345 reward:500000000
+2017-11-23T13:10:51.925Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:10:56.926Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:11:00.186Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:11:00.221Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:11:00.342Z - undefined - undefined - [info] : Forged new block id: 16540398120217832622 height: 4968 round: 4968 slot: 4733346 reward:500000000
+2017-11-23T13:11:01.928Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:11:06.928Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:11:10.352Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:11:10.389Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:11:10.511Z - undefined - undefined - [info] : Forged new block id: 12281492031336550314 height: 4969 round: 4969 slot: 4733347 reward:500000000
+2017-11-23T13:11:11.929Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:11:16.932Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:11:20.520Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:11:20.556Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:11:20.678Z - undefined - undefined - [info] : Forged new block id: 16290309784191943941 height: 4970 round: 4970 slot: 4733348 reward:500000000
+2017-11-23T13:11:21.935Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:11:26.935Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:11:30.689Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:11:30.732Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:11:30.838Z - undefined - undefined - [info] : Forged new block id: 3688188865164907382 height: 4971 round: 4971 slot: 4733349 reward:500000000
+2017-11-23T13:11:31.936Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:11:36.938Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:11:40.851Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:11:40.894Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:11:41.007Z - undefined - undefined - [info] : Forged new block id: 16966441507584676129 height: 4972 round: 4972 slot: 4733350 reward:500000000
+2017-11-23T13:11:41.939Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:11:46.940Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:11:50.020Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:11:50.061Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:11:50.170Z - undefined - undefined - [info] : Forged new block id: 7990109454353715543 height: 4973 round: 4973 slot: 4733351 reward:500000000
+2017-11-23T13:11:51.941Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:11:56.943Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:12:00.184Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:12:00.216Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:12:00.322Z - undefined - undefined - [info] : Forged new block id: 9629886152493843165 height: 4974 round: 4974 slot: 4733352 reward:500000000
+2017-11-23T13:12:01.945Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:12:06.948Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:12:10.335Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:12:10.418Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:12:10.516Z - undefined - undefined - [info] : Forged new block id: 2498446480872036571 height: 4975 round: 4975 slot: 4733353 reward:500000000
+2017-11-23T13:12:11.949Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:12:16.951Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:12:20.753Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:12:20.803Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:12:20.907Z - undefined - undefined - [info] : Forged new block id: 16007472895245407249 height: 4976 round: 4976 slot: 4733354 reward:500000000
+2017-11-23T13:12:21.951Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:13:19.534Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:13:19.538Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:13:19.539Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:19.540Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:13:19.540Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:13:19.542Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:19.542Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:13:19.544Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:13:19.546Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:19.546Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:13:19.548Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:13:19.549Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:19.550Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:13:19.553Z - undefined - undefined - [info] : Starting sync
+2017-11-23T13:13:19.558Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:19.559Z - undefined - undefined - [info] : Finished sync
+2017-11-23T13:13:19.559Z - undefined - undefined - [error] : Sync timer Failed to find enough good peers
+2017-11-23T13:13:19.563Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:19.638Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:19.885Z - undefined - undefined - [info] : Forged new block id: 9171537348423626380 height: 4977 round: 4977 slot: 4733359 reward:500000000
+2017-11-23T13:13:20.900Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:20.935Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:21.303Z - undefined - undefined - [info] : Forged new block id: 15837641572754851897 height: 4978 round: 4978 slot: 4733360 reward:500000000
+2017-11-23T13:13:24.541Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:13:29.541Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:13:30.311Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:30.347Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:30.457Z - undefined - undefined - [info] : Forged new block id: 4272075244539322343 height: 4979 round: 4979 slot: 4733361 reward:500000000
+2017-11-23T13:13:34.542Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:13:39.542Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:13:40.468Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:40.507Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:40.667Z - undefined - undefined - [info] : Forged new block id: 17862564107367601244 height: 4980 round: 4980 slot: 4733362 reward:500000000
+2017-11-23T13:13:44.543Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:13:49.545Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:13:50.676Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:50.718Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:13:50.844Z - undefined - undefined - [info] : Forged new block id: 13644430920939867609 height: 4981 round: 4981 slot: 4733363 reward:500000000
+2017-11-23T13:13:54.546Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:13:59.548Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:14:00.858Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:14:00.910Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:14:01.021Z - undefined - undefined - [info] : Forged new block id: 11971139928145220255 height: 4982 round: 4982 slot: 4733364 reward:500000000
+2017-11-23T13:14:04.549Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:14:09.550Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:14:10.030Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:14:10.065Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:14:10.167Z - undefined - undefined - [info] : Forged new block id: 13658718159651427291 height: 4983 round: 4983 slot: 4733365 reward:500000000
+2017-11-23T13:14:14.552Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:14:19.554Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:14:20.176Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:14:20.237Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:14:20.335Z - undefined - undefined - [info] : Forged new block id: 17712251234670103970 height: 4984 round: 4984 slot: 4733366 reward:500000000
+2017-11-23T13:14:24.554Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:14:29.556Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:14:30.346Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:14:30.519Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:14:30.630Z - undefined - undefined - [info] : Forged new block id: 8189876206715158668 height: 4985 round: 4985 slot: 4733367 reward:500000000
+2017-11-23T13:14:34.558Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:14:39.560Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:14:40.638Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:14:40.679Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:14:40.797Z - undefined - undefined - [info] : Forged new block id: 7680645510994642102 height: 4986 round: 4986 slot: 4733368 reward:500000000
+2017-11-23T13:14:44.561Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:14:49.562Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:14:50.804Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:14:50.847Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:14:50.966Z - undefined - undefined - [info] : Forged new block id: 7900814799213648179 height: 4987 round: 4987 slot: 4733369 reward:500000000
+2017-11-23T13:14:54.564Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:14:59.565Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:15:00.978Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:15:01.023Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:15:01.142Z - undefined - undefined - [info] : Forged new block id: 7617376258888444009 height: 4988 round: 4988 slot: 4733370 reward:500000000
+2017-11-23T13:15:04.567Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:15:09.567Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:15:10.152Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:15:10.184Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:15:10.308Z - undefined - undefined - [info] : Forged new block id: 15848843862964822896 height: 4989 round: 4989 slot: 4733371 reward:500000000
+2017-11-23T13:15:14.568Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:15:19.572Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:15:20.321Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:15:20.413Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:15:20.542Z - undefined - undefined - [info] : Forged new block id: 14966235405523718577 height: 4990 round: 4990 slot: 4733372 reward:500000000
+2017-11-23T13:15:24.574Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:15:29.574Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:15:30.552Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:15:30.589Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:15:30.693Z - undefined - undefined - [info] : Forged new block id: 3880796175728044705 height: 4991 round: 4991 slot: 4733373 reward:500000000
+2017-11-23T13:15:34.575Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:15:39.576Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:15:40.706Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:15:40.763Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:15:40.870Z - undefined - undefined - [info] : Forged new block id: 12059634394992917449 height: 4992 round: 4992 slot: 4733374 reward:500000000
+2017-11-23T13:15:44.578Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:15:49.580Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:15:50.882Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:15:51.036Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:15:51.142Z - undefined - undefined - [info] : Forged new block id: 4427951056032218134 height: 4993 round: 4993 slot: 4733375 reward:500000000
+2017-11-23T13:15:54.581Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:15:59.583Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:16:00.154Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:16:00.196Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:16:00.388Z - undefined - undefined - [info] : Forged new block id: 2515424754184711310 height: 4994 round: 4994 slot: 4733376 reward:500000000
+2017-11-23T13:16:04.584Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:16:09.586Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:16:10.399Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:16:10.439Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:16:10.540Z - undefined - undefined - [info] : Forged new block id: 17961940578389166248 height: 4995 round: 4995 slot: 4733377 reward:500000000
+2017-11-23T13:16:14.588Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:16:19.590Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:16:20.549Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:16:20.592Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:16:20.699Z - undefined - undefined - [info] : Forged new block id: 15429613166042458537 height: 4996 round: 4996 slot: 4733378 reward:500000000
+2017-11-23T13:16:24.591Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:16:29.594Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:16:30.707Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:16:30.763Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:16:30.868Z - undefined - undefined - [info] : Forged new block id: 3591733459148613020 height: 4997 round: 4997 slot: 4733379 reward:500000000
+2017-11-23T13:16:34.595Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:16:39.597Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:16:40.880Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:16:40.915Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:16:41.036Z - undefined - undefined - [info] : Forged new block id: 16599138860439278212 height: 4998 round: 4998 slot: 4733380 reward:500000000
+2017-11-23T13:16:44.599Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:16:49.600Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:16:50.049Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:16:50.083Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:16:50.183Z - undefined - undefined - [info] : Forged new block id: 14378991377750168660 height: 4999 round: 4999 slot: 4733381 reward:500000000
+2017-11-23T13:16:54.601Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:16:59.602Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:17:00.190Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:17:00.234Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:17:00.336Z - undefined - undefined - [info] : Forged new block id: 9709243144965871169 height: 5000 round: 5000 slot: 4733382 reward:500000000
+2017-11-23T13:17:04.604Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:17:09.605Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:17:10.344Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:17:10.374Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:17:10.478Z - undefined - undefined - [info] : Forged new block id: 10640734882337590726 height: 5001 round: 5001 slot: 4733383 reward:500000000
+2017-11-23T13:17:14.606Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:17:19.607Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:17:20.488Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:17:20.549Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:17:20.655Z - undefined - undefined - [info] : Forged new block id: 15685220882208740078 height: 5002 round: 5002 slot: 4733384 reward:500000000
+2017-11-23T13:17:24.608Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:17:29.608Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:17:30.661Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:17:30.768Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:17:30.865Z - undefined - undefined - [info] : Forged new block id: 16015230201716685590 height: 5003 round: 5003 slot: 4733385 reward:500000000
+2017-11-23T13:17:34.609Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:17:39.610Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:17:40.877Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:17:40.930Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:17:41.041Z - undefined - undefined - [info] : Forged new block id: 2575996655182111352 height: 5004 round: 5004 slot: 4733386 reward:500000000
+2017-11-23T13:17:44.612Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:17:49.613Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:17:50.050Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:17:50.079Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:17:50.180Z - undefined - undefined - [info] : Forged new block id: 17384036615168577138 height: 5005 round: 5005 slot: 4733387 reward:500000000
+2017-11-23T13:17:54.615Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:17:59.616Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:18:00.187Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:18:00.238Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:18:00.382Z - undefined - undefined - [info] : Forged new block id: 5347777327290900825 height: 5006 round: 5006 slot: 4733388 reward:500000000
+2017-11-23T13:18:04.617Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:18:09.618Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:18:10.394Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:18:10.428Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:18:10.576Z - undefined - undefined - [info] : Forged new block id: 10603515442230241804 height: 5007 round: 5007 slot: 4733389 reward:500000000
+2017-11-23T13:18:14.620Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:18:19.622Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:18:20.591Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:18:20.672Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:18:20.777Z - undefined - undefined - [info] : Forged new block id: 13707213639290006371 height: 5008 round: 5008 slot: 4733390 reward:500000000
+2017-11-23T13:18:24.625Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:18:29.626Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:18:30.785Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:18:30.868Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:18:30.969Z - undefined - undefined - [info] : Forged new block id: 16682270274872031183 height: 5009 round: 5009 slot: 4733391 reward:500000000
+2017-11-23T13:18:34.627Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:18:39.628Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:18:40.977Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:18:41.018Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:18:41.130Z - undefined - undefined - [info] : Forged new block id: 10868960281954584877 height: 5010 round: 5010 slot: 4733392 reward:500000000
+2017-11-23T13:18:44.629Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:18:49.630Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:18:50.140Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:18:50.172Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:18:50.274Z - undefined - undefined - [info] : Forged new block id: 3705139727566749972 height: 5011 round: 5011 slot: 4733393 reward:500000000
+2017-11-23T13:18:54.632Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:18:59.633Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:19:00.287Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:19:00.330Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:19:00.444Z - undefined - undefined - [info] : Forged new block id: 14485437884503618595 height: 5012 round: 5012 slot: 4733394 reward:500000000
+2017-11-23T13:19:04.636Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:19:09.638Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:19:10.454Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:19:10.499Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:19:10.605Z - undefined - undefined - [info] : Forged new block id: 10947210749079853717 height: 5013 round: 5013 slot: 4733395 reward:500000000
+2017-11-23T13:19:14.640Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:19:19.642Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:19:20.612Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:19:20.653Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:19:20.765Z - undefined - undefined - [info] : Forged new block id: 6078779387806305082 height: 5014 round: 5014 slot: 4733396 reward:500000000
+2017-11-23T13:19:24.643Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:19:29.643Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:19:30.775Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:19:30.811Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:19:30.925Z - undefined - undefined - [info] : Forged new block id: 1975305664468357558 height: 5015 round: 5015 slot: 4733397 reward:500000000
+2017-11-23T13:19:34.644Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:19:39.646Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:19:40.936Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:19:41.000Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:19:41.118Z - undefined - undefined - [info] : Forged new block id: 18063241954314435408 height: 5016 round: 5016 slot: 4733398 reward:500000000
+2017-11-23T13:19:44.648Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:19:49.649Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:19:50.125Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:19:50.161Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:19:50.257Z - undefined - undefined - [info] : Forged new block id: 13525905765812107352 height: 5017 round: 5017 slot: 4733399 reward:500000000
+2017-11-23T13:19:54.650Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:19:59.651Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:20:00.266Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:20:00.306Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:20:00.409Z - undefined - undefined - [info] : Forged new block id: 16596712096679394147 height: 5018 round: 5018 slot: 4733400 reward:500000000
+2017-11-23T13:20:04.652Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:20:09.654Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:20:10.416Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:20:10.446Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:20:10.561Z - undefined - undefined - [info] : Forged new block id: 7765936033894951917 height: 5019 round: 5019 slot: 4733401 reward:500000000
+2017-11-23T13:20:14.654Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:20:19.656Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:20:20.571Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:20:20.599Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:20:20.704Z - undefined - undefined - [info] : Forged new block id: 12398633291541059726 height: 5020 round: 5020 slot: 4733402 reward:500000000
+2017-11-23T13:20:24.657Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:20:29.659Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:20:30.714Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:20:30.752Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:20:30.865Z - undefined - undefined - [info] : Forged new block id: 17579884816707694749 height: 5021 round: 5021 slot: 4733403 reward:500000000
+2017-11-23T13:20:34.659Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:20:39.661Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:20:40.872Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:20:40.903Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:20:41.025Z - undefined - undefined - [info] : Forged new block id: 18255417496420126644 height: 5022 round: 5022 slot: 4733404 reward:500000000
+2017-11-23T13:20:44.661Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:20:49.662Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:20:50.032Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:20:50.070Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:20:50.166Z - undefined - undefined - [info] : Forged new block id: 9471142030522277780 height: 5023 round: 5023 slot: 4733405 reward:500000000
+2017-11-23T13:20:54.663Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:20:59.664Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:21:00.178Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:21:00.212Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:21:00.392Z - undefined - undefined - [info] : Forged new block id: 8846629186436260924 height: 5024 round: 5024 slot: 4733406 reward:500000000
+2017-11-23T13:21:04.665Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:21:09.666Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:21:10.406Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:21:10.438Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:21:10.577Z - undefined - undefined - [info] : Forged new block id: 8500881166389169305 height: 5025 round: 5025 slot: 4733407 reward:500000000
+2017-11-23T13:21:14.667Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:21:19.668Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:21:20.588Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:21:20.640Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:21:20.738Z - undefined - undefined - [info] : Forged new block id: 10969848443856226784 height: 5026 round: 5026 slot: 4733408 reward:500000000
+2017-11-23T13:21:24.669Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:21:29.670Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:21:30.747Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:21:30.784Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:21:30.889Z - undefined - undefined - [info] : Forged new block id: 1219920850135967640 height: 5027 round: 5027 slot: 4733409 reward:500000000
+2017-11-23T13:21:34.672Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:21:39.673Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:21:40.897Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:21:40.957Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:21:41.057Z - undefined - undefined - [info] : Forged new block id: 5631029639269898397 height: 5028 round: 5028 slot: 4733410 reward:500000000
+2017-11-23T13:21:44.674Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:21:49.675Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:21:50.067Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:21:50.099Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:21:50.212Z - undefined - undefined - [info] : Forged new block id: 150541603650470675 height: 5029 round: 5029 slot: 4733411 reward:500000000
+2017-11-23T13:21:54.677Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:21:59.679Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:22:00.220Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:22:00.259Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:22:00.406Z - undefined - undefined - [info] : Forged new block id: 8400399420452670233 height: 5030 round: 5030 slot: 4733412 reward:500000000
+2017-11-23T13:22:04.681Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:22:09.682Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:22:10.414Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:22:10.472Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:22:10.582Z - undefined - undefined - [info] : Forged new block id: 13825070664634607331 height: 5031 round: 5031 slot: 4733413 reward:500000000
+2017-11-23T13:22:14.684Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:22:19.684Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:22:20.590Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:22:20.681Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:22:20.794Z - undefined - undefined - [info] : Forged new block id: 10075869230345814264 height: 5032 round: 5032 slot: 4733414 reward:500000000
+2017-11-23T13:22:24.685Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:22:29.686Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:22:30.804Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:22:30.863Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:22:30.969Z - undefined - undefined - [info] : Forged new block id: 7733345878483008140 height: 5033 round: 5033 slot: 4733415 reward:500000000
+2017-11-23T13:22:34.687Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:22:39.689Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:22:40.984Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:22:41.053Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:22:41.155Z - undefined - undefined - [info] : Forged new block id: 11170486727892285253 height: 5034 round: 5034 slot: 4733416 reward:500000000
+2017-11-23T13:22:44.690Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:22:49.691Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:22:50.164Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:22:50.195Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:22:50.334Z - undefined - undefined - [info] : Forged new block id: 3770692566365182362 height: 5035 round: 5035 slot: 4733417 reward:500000000
+2017-11-23T13:22:54.693Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:22:59.694Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:23:00.344Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:23:00.403Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:23:00.510Z - undefined - undefined - [info] : Forged new block id: 212711121068799533 height: 5036 round: 5036 slot: 4733418 reward:500000000
+2017-11-23T13:23:04.695Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:23:09.695Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:23:10.519Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:23:10.573Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:23:10.687Z - undefined - undefined - [info] : Forged new block id: 17315729871697761967 height: 5037 round: 5037 slot: 4733419 reward:500000000
+2017-11-23T13:23:14.695Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:23:19.697Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:23:20.696Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:23:20.778Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:23:20.880Z - undefined - undefined - [info] : Forged new block id: 16152506851962037114 height: 5038 round: 5038 slot: 4733420 reward:500000000
+2017-11-23T13:23:24.699Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:23:29.699Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:23:30.888Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:23:30.918Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:23:31.032Z - undefined - undefined - [info] : Forged new block id: 3166213027356406069 height: 5039 round: 5039 slot: 4733421 reward:500000000
+2017-11-23T13:23:34.701Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:23:39.702Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:23:40.044Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:23:40.073Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:23:40.170Z - undefined - undefined - [info] : Forged new block id: 9556730797560350957 height: 5040 round: 5040 slot: 4733422 reward:500000000
+2017-11-23T13:23:44.704Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:23:49.706Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:23:50.180Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:23:50.216Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:23:50.405Z - undefined - undefined - [info] : Forged new block id: 7584548002050687808 height: 5041 round: 5041 slot: 4733423 reward:500000000
+2017-11-23T13:23:54.708Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:23:59.709Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:24:00.412Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:24:00.442Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:24:00.548Z - undefined - undefined - [info] : Forged new block id: 3417369783628320730 height: 5042 round: 5042 slot: 4733424 reward:500000000
+2017-11-23T13:24:04.711Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:24:09.712Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:24:10.556Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:24:10.594Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:24:10.683Z - undefined - undefined - [info] : Forged new block id: 16556391615772851712 height: 5043 round: 5043 slot: 4733425 reward:500000000
+2017-11-23T13:24:14.712Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:24:19.713Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:24:20.697Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:24:20.729Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:24:20.843Z - undefined - undefined - [info] : Forged new block id: 106064906030675749 height: 5044 round: 5044 slot: 4733426 reward:500000000
+2017-11-23T13:24:24.714Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:24:29.716Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:24:30.854Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:24:30.884Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:24:31.003Z - undefined - undefined - [info] : Forged new block id: 15368739305271243994 height: 5045 round: 5045 slot: 4733427 reward:500000000
+2017-11-23T13:24:34.718Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:24:39.719Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:24:40.013Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:24:40.046Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:24:40.142Z - undefined - undefined - [info] : Forged new block id: 3736843301262184274 height: 5046 round: 5046 slot: 4733428 reward:500000000
+2017-11-23T13:24:44.720Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:24:49.722Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:24:50.153Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:24:50.190Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:24:50.293Z - undefined - undefined - [info] : Forged new block id: 8021120867247434060 height: 5047 round: 5047 slot: 4733429 reward:500000000
+2017-11-23T13:24:54.723Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:24:59.724Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:25:00.300Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:25:00.331Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:25:00.437Z - undefined - undefined - [info] : Forged new block id: 8189929953966386302 height: 5048 round: 5048 slot: 4733430 reward:500000000
+2017-11-23T13:25:04.725Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:25:09.726Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:25:10.448Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:25:10.484Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:25:10.599Z - undefined - undefined - [info] : Forged new block id: 17395699272487040955 height: 5049 round: 5049 slot: 4733431 reward:500000000
+2017-11-23T13:25:14.731Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:25:19.735Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:25:20.610Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:25:20.654Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:25:20.761Z - undefined - undefined - [info] : Forged new block id: 3137788533128791272 height: 5050 round: 5050 slot: 4733432 reward:500000000
+2017-11-23T13:25:24.736Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:25:29.738Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:25:30.770Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:25:30.805Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:25:30.919Z - undefined - undefined - [info] : Forged new block id: 18218327573353870188 height: 5051 round: 5051 slot: 4733433 reward:500000000
+2017-11-23T13:25:34.739Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:25:39.740Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:25:40.933Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:25:41.021Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:25:41.120Z - undefined - undefined - [info] : Forged new block id: 2662559800537929053 height: 5052 round: 5052 slot: 4733434 reward:500000000
+2017-11-23T13:25:44.742Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:25:49.743Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:25:50.129Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:25:50.171Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:25:50.277Z - undefined - undefined - [info] : Forged new block id: 10333743513475522637 height: 5053 round: 5053 slot: 4733435 reward:500000000
+2017-11-23T13:25:54.744Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:25:59.745Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:26:00.287Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:26:00.325Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:26:00.437Z - undefined - undefined - [info] : Forged new block id: 10741733880621915011 height: 5054 round: 5054 slot: 4733436 reward:500000000
+2017-11-23T13:26:04.746Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:26:09.746Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:26:10.446Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:26:10.491Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:26:10.606Z - undefined - undefined - [info] : Forged new block id: 13700961507267882253 height: 5055 round: 5055 slot: 4733437 reward:500000000
+2017-11-23T13:26:14.748Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:26:19.749Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:26:20.622Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:26:20.670Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:26:20.774Z - undefined - undefined - [info] : Forged new block id: 1933894005292354945 height: 5056 round: 5056 slot: 4733438 reward:500000000
+2017-11-23T13:26:24.750Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:26:29.751Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:26:30.788Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:26:30.821Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:26:30.934Z - undefined - undefined - [info] : Forged new block id: 16202222748955363742 height: 5057 round: 5057 slot: 4733439 reward:500000000
+2017-11-23T13:26:34.753Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:26:39.754Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:26:40.943Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:26:40.997Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:26:41.097Z - undefined - undefined - [info] : Forged new block id: 1303899277023533815 height: 5058 round: 5058 slot: 4733440 reward:500000000
+2017-11-23T13:26:44.756Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:26:49.757Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:26:50.107Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:26:50.138Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:26:50.235Z - undefined - undefined - [info] : Forged new block id: 16711804839276573872 height: 5059 round: 5059 slot: 4733441 reward:500000000
+2017-11-23T13:26:54.758Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:26:59.759Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:27:00.250Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:27:00.293Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:27:00.418Z - undefined - undefined - [info] : Forged new block id: 10482327657926151180 height: 5060 round: 5060 slot: 4733442 reward:500000000
+2017-11-23T13:27:04.760Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:27:09.762Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:27:10.428Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:27:10.558Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:27:10.766Z - undefined - undefined - [info] : Forged new block id: 8600877269548164321 height: 5061 round: 5061 slot: 4733443 reward:500000000
+2017-11-23T13:27:14.763Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:27:19.765Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:27:20.777Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:27:20.863Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:27:21.079Z - undefined - undefined - [info] : Forged new block id: 14426826201974731384 height: 5062 round: 5062 slot: 4733444 reward:500000000
+2017-11-23T13:27:24.765Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:27:29.766Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:27:30.089Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:27:30.121Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:27:30.400Z - undefined - undefined - [info] : Forged new block id: 13498703898555110518 height: 5063 round: 5063 slot: 4733445 reward:500000000
+2017-11-23T13:27:34.766Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:27:39.767Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:27:40.413Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:27:40.450Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:27:40.676Z - undefined - undefined - [info] : Forged new block id: 16309312985218012145 height: 5064 round: 5064 slot: 4733446 reward:500000000
+2017-11-23T13:27:44.768Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:27:49.769Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:27:50.684Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:27:50.730Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:27:50.961Z - undefined - undefined - [info] : Forged new block id: 56576872701096593 height: 5065 round: 5065 slot: 4733447 reward:500000000
+2017-11-23T13:27:54.769Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:27:59.770Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:28:00.978Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:28:01.039Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:28:01.328Z - undefined - undefined - [info] : Forged new block id: 10439076716304052561 height: 5066 round: 5066 slot: 4733448 reward:500000000
+2017-11-23T13:28:04.772Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:28:09.773Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:28:10.339Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:28:10.374Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:28:10.556Z - undefined - undefined - [info] : Forged new block id: 1743127313382591951 height: 5067 round: 5067 slot: 4733449 reward:500000000
+2017-11-23T13:28:14.775Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:28:19.775Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:28:20.569Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:28:20.615Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:28:20.828Z - undefined - undefined - [info] : Forged new block id: 8263400320674357513 height: 5068 round: 5068 slot: 4733450 reward:500000000
+2017-11-23T13:28:24.776Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:28:29.778Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:28:30.840Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:28:30.888Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:28:31.078Z - undefined - undefined - [info] : Forged new block id: 9668228707853540242 height: 5069 round: 5069 slot: 4733451 reward:500000000
+2017-11-23T13:28:34.779Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:28:39.781Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:28:40.089Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:28:40.147Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:28:40.416Z - undefined - undefined - [info] : Forged new block id: 15657617795382093335 height: 5070 round: 5070 slot: 4733452 reward:500000000
+2017-11-23T13:28:44.782Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:28:49.785Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:28:50.428Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:28:50.706Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:28:50.799Z - undefined - undefined - [info] : Forged new block id: 17867398228982559789 height: 5071 round: 5071 slot: 4733453 reward:500000000
+2017-11-23T13:28:54.786Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:28:59.787Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:29:00.809Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:29:00.839Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:29:00.960Z - undefined - undefined - [info] : Forged new block id: 18346380701616648822 height: 5072 round: 5072 slot: 4733454 reward:500000000
+2017-11-23T13:29:04.788Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:29:09.789Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:29:10.966Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:29:11.006Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:29:11.244Z - undefined - undefined - [info] : Forged new block id: 5730146414942777581 height: 5073 round: 5073 slot: 4733455 reward:500000000
+2017-11-23T13:29:14.791Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:29:19.796Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:29:20.253Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:29:20.286Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:29:20.849Z - undefined - undefined - [info] : Forged new block id: 8107427031607039850 height: 5074 round: 5074 slot: 4733456 reward:500000000
+2017-11-23T13:29:24.797Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:29:29.798Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:29:30.858Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:29:30.894Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:29:31.133Z - undefined - undefined - [info] : Forged new block id: 3798758978283000437 height: 5075 round: 5075 slot: 4733457 reward:500000000
+2017-11-23T13:29:34.799Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:29:39.799Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:29:40.143Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:29:40.187Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:29:40.428Z - undefined - undefined - [info] : Forged new block id: 12858987334574872769 height: 5076 round: 5076 slot: 4733458 reward:500000000
+2017-11-23T13:29:44.800Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:29:49.801Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:29:50.441Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:29:50.476Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:29:50.723Z - undefined - undefined - [info] : Forged new block id: 12255929201097224153 height: 5077 round: 5077 slot: 4733459 reward:500000000
+2017-11-23T13:29:54.802Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:29:59.802Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:30:00.734Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:30:00.774Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:30:01.152Z - undefined - undefined - [info] : Forged new block id: 2647612022406335197 height: 5078 round: 5078 slot: 4733460 reward:500000000
+2017-11-23T13:30:04.803Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:30:09.804Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:30:10.167Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:30:10.207Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:30:10.470Z - undefined - undefined - [info] : Forged new block id: 8998768568855055483 height: 5079 round: 5079 slot: 4733461 reward:500000000
+2017-11-23T13:30:14.808Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:30:19.809Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:30:20.481Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:30:20.518Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:30:20.742Z - undefined - undefined - [info] : Forged new block id: 12217136781872130871 height: 5080 round: 5080 slot: 4733462 reward:500000000
+2017-11-23T13:30:24.809Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:30:29.810Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:30:30.752Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:30:30.787Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:30:30.892Z - undefined - undefined - [info] : Forged new block id: 4885187820793240763 height: 5081 round: 5081 slot: 4733463 reward:500000000
+2017-11-23T13:30:34.812Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:30:39.813Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:30:40.900Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:30:40.938Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:30:41.067Z - undefined - undefined - [info] : Forged new block id: 2002414273451946366 height: 5082 round: 5082 slot: 4733464 reward:500000000
+2017-11-23T13:30:44.815Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:30:49.816Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:30:50.077Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:30:50.104Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:30:50.199Z - undefined - undefined - [info] : Forged new block id: 6482667245668239538 height: 5083 round: 5083 slot: 4733465 reward:500000000
+2017-11-23T13:30:54.817Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:30:59.817Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:31:00.208Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:31:00.252Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:31:00.367Z - undefined - undefined - [info] : Forged new block id: 8682838614006140344 height: 5084 round: 5084 slot: 4733466 reward:500000000
+2017-11-23T13:31:04.818Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:31:09.818Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:31:10.375Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:31:10.439Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:31:10.535Z - undefined - undefined - [info] : Forged new block id: 18100321657349066599 height: 5085 round: 5085 slot: 4733467 reward:500000000
+2017-11-23T13:31:14.821Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:31:19.822Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:31:20.549Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:31:20.591Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:31:20.704Z - undefined - undefined - [info] : Forged new block id: 6435064827162079056 height: 5086 round: 5086 slot: 4733468 reward:500000000
+2017-11-23T13:31:24.823Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:31:29.824Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:31:30.718Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:31:30.759Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:31:30.864Z - undefined - undefined - [info] : Forged new block id: 14382903359461634912 height: 5087 round: 5087 slot: 4733469 reward:500000000
+2017-11-23T13:31:34.825Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:31:39.826Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:31:40.875Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:31:40.969Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:31:41.074Z - undefined - undefined - [info] : Forged new block id: 3099446582199454963 height: 5088 round: 5088 slot: 4733470 reward:500000000
+2017-11-23T13:31:44.828Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:31:49.829Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:31:50.083Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:31:50.129Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:31:50.242Z - undefined - undefined - [info] : Forged new block id: 18438155256863200278 height: 5089 round: 5089 slot: 4733471 reward:500000000
+2017-11-23T13:31:54.831Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:31:59.833Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:32:00.264Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:32:00.302Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:32:00.407Z - undefined - undefined - [info] : Forged new block id: 10454480309646227758 height: 5090 round: 5090 slot: 4733472 reward:500000000
+2017-11-23T13:32:04.834Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:32:09.836Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:32:10.414Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:32:10.449Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:32:10.624Z - undefined - undefined - [info] : Forged new block id: 5412847420849053318 height: 5091 round: 5091 slot: 4733473 reward:500000000
+2017-11-23T13:32:14.836Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:32:19.837Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:32:20.632Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:32:20.671Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:32:20.775Z - undefined - undefined - [info] : Forged new block id: 10899726485700389879 height: 5092 round: 5092 slot: 4733474 reward:500000000
+2017-11-23T13:32:24.838Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:32:29.839Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:32:30.783Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:32:30.815Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:32:30.918Z - undefined - undefined - [info] : Forged new block id: 8996566474667213088 height: 5093 round: 5093 slot: 4733475 reward:500000000
+2017-11-23T13:32:34.840Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:32:39.841Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:32:40.925Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:32:40.957Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:32:41.087Z - undefined - undefined - [info] : Forged new block id: 2977217043270045718 height: 5094 round: 5094 slot: 4733476 reward:500000000
+2017-11-23T13:32:44.842Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:32:49.843Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:32:50.096Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:32:50.135Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:32:50.321Z - undefined - undefined - [info] : Forged new block id: 1847560482840779420 height: 5095 round: 5095 slot: 4733477 reward:500000000
+2017-11-23T13:32:54.843Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:32:59.843Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:33:00.334Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:33:00.371Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:33:00.477Z - undefined - undefined - [info] : Forged new block id: 16375525595629472546 height: 5096 round: 5096 slot: 4733478 reward:500000000
+2017-11-23T13:33:04.844Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:33:09.845Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:33:10.487Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:33:10.529Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:33:10.629Z - undefined - undefined - [info] : Forged new block id: 17136442723703711940 height: 5097 round: 5097 slot: 4733479 reward:500000000
+2017-11-23T13:33:14.846Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:33:19.847Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:33:20.637Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:33:20.676Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:33:20.789Z - undefined - undefined - [info] : Forged new block id: 9330898589589529901 height: 5098 round: 5098 slot: 4733480 reward:500000000
+2017-11-23T13:33:24.849Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:33:29.850Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:33:30.798Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:33:30.913Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:33:31.016Z - undefined - undefined - [info] : Forged new block id: 11433765569938237862 height: 5099 round: 5099 slot: 4733481 reward:500000000
+2017-11-23T13:33:34.851Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:33:39.853Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:33:40.030Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:33:40.074Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:33:40.212Z - undefined - undefined - [info] : Forged new block id: 2933040905865240606 height: 5100 round: 5100 slot: 4733482 reward:500000000
+2017-11-23T13:33:44.853Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:33:49.854Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:33:50.219Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:33:50.253Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:33:50.373Z - undefined - undefined - [info] : Forged new block id: 13535797240305237977 height: 5101 round: 5101 slot: 4733483 reward:500000000
+2017-11-23T13:33:54.855Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:33:59.855Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:34:00.390Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:34:00.420Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:34:00.532Z - undefined - undefined - [info] : Forged new block id: 5076250494521577306 height: 5102 round: 5102 slot: 4733484 reward:500000000
+2017-11-23T13:34:04.855Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:34:09.856Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:34:10.539Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:34:10.580Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:34:10.709Z - undefined - undefined - [info] : Forged new block id: 16650575883392515174 height: 5103 round: 5103 slot: 4733485 reward:500000000
+2017-11-23T13:34:14.857Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:34:19.858Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:34:20.717Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:34:20.740Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:34:20.894Z - undefined - undefined - [info] : Forged new block id: 15698312349060532685 height: 5104 round: 5104 slot: 4733486 reward:500000000
+2017-11-23T13:34:24.860Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:34:29.862Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:34:30.905Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:34:30.941Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:34:31.038Z - undefined - undefined - [info] : Forged new block id: 18098198370489776735 height: 5105 round: 5105 slot: 4733487 reward:500000000
+2017-11-23T13:34:34.863Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:34:39.864Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:34:40.043Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:34:40.083Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:34:40.184Z - undefined - undefined - [info] : Forged new block id: 17346865636324783713 height: 5106 round: 5106 slot: 4733488 reward:500000000
+2017-11-23T13:34:44.865Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:34:49.871Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:34:50.196Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:34:50.241Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:34:50.352Z - undefined - undefined - [info] : Forged new block id: 9857638905025314092 height: 5107 round: 5107 slot: 4733489 reward:500000000
+2017-11-23T13:34:54.872Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:34:59.873Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:35:00.365Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:35:00.402Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:35:00.496Z - undefined - undefined - [info] : Forged new block id: 9423520915142047182 height: 5108 round: 5108 slot: 4733490 reward:500000000
+2017-11-23T13:35:04.875Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:35:09.877Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:35:10.505Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:35:10.543Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:35:10.674Z - undefined - undefined - [info] : Forged new block id: 6202803394063046705 height: 5109 round: 5109 slot: 4733491 reward:500000000
+2017-11-23T13:35:14.879Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:35:19.881Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:35:20.682Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:35:20.730Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:35:20.860Z - undefined - undefined - [info] : Forged new block id: 9299523942744925118 height: 5110 round: 5110 slot: 4733492 reward:500000000
+2017-11-23T13:35:24.881Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:35:29.883Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:35:30.873Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:35:30.906Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:35:31.010Z - undefined - undefined - [info] : Forged new block id: 12975787868774128075 height: 5111 round: 5111 slot: 4733493 reward:500000000
+2017-11-23T13:35:34.883Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:35:39.884Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:35:40.023Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:35:40.059Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:35:40.168Z - undefined - undefined - [info] : Forged new block id: 3423716005550938526 height: 5112 round: 5112 slot: 4733494 reward:500000000
+2017-11-23T13:35:44.884Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:35:49.884Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:35:50.178Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:35:50.214Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:35:50.435Z - undefined - undefined - [info] : Forged new block id: 11470204545627065186 height: 5113 round: 5113 slot: 4733495 reward:500000000
+2017-11-23T13:35:54.885Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:35:59.886Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:36:00.443Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:36:00.481Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:36:00.596Z - undefined - undefined - [info] : Forged new block id: 7989394305425785042 height: 5114 round: 5114 slot: 4733496 reward:500000000
+2017-11-23T13:36:04.888Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:36:09.890Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:36:10.610Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:36:10.641Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:36:10.756Z - undefined - undefined - [info] : Forged new block id: 3589108318785388454 height: 5115 round: 5115 slot: 4733497 reward:500000000
+2017-11-23T13:36:14.892Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:36:19.892Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:36:20.779Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:36:20.848Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:36:20.957Z - undefined - undefined - [info] : Forged new block id: 14634116975502214179 height: 5116 round: 5116 slot: 4733498 reward:500000000
+2017-11-23T13:36:24.894Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:36:29.895Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:36:30.970Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:36:31.005Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:36:31.117Z - undefined - undefined - [info] : Forged new block id: 7446631146828135187 height: 5117 round: 5117 slot: 4733499 reward:500000000
+2017-11-23T13:36:34.897Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:36:39.898Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:36:40.126Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:36:40.162Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:36:40.278Z - undefined - undefined - [info] : Forged new block id: 8741108063123814790 height: 5118 round: 5118 slot: 4733500 reward:500000000
+2017-11-23T13:36:44.899Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:36:49.900Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:36:50.285Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:36:50.322Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:36:50.434Z - undefined - undefined - [info] : Forged new block id: 10528941055008006947 height: 5119 round: 5119 slot: 4733501 reward:500000000
+2017-11-23T13:36:54.902Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:36:59.902Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:37:00.450Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:37:00.496Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:37:00.610Z - undefined - undefined - [info] : Forged new block id: 10067684887029528086 height: 5120 round: 5120 slot: 4733502 reward:500000000
+2017-11-23T13:37:04.903Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:37:09.905Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:37:10.618Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:37:10.665Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:37:10.779Z - undefined - undefined - [info] : Forged new block id: 6554902686487652723 height: 5121 round: 5121 slot: 4733503 reward:500000000
+2017-11-23T13:37:14.906Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:37:19.906Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:37:20.786Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:37:20.826Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:37:20.963Z - undefined - undefined - [info] : Forged new block id: 10164155995830931557 height: 5122 round: 5122 slot: 4733504 reward:500000000
+2017-11-23T13:37:24.906Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:37:29.907Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:37:30.976Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:37:31.018Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:37:31.210Z - undefined - undefined - [info] : Forged new block id: 9658959783828181075 height: 5123 round: 5123 slot: 4733505 reward:500000000
+2017-11-23T13:37:34.908Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:37:39.910Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:37:40.218Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:37:40.281Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:37:40.419Z - undefined - undefined - [info] : Forged new block id: 14714422514850325862 height: 5124 round: 5124 slot: 4733506 reward:500000000
+2017-11-23T13:37:44.913Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:37:49.914Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:37:50.433Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:37:50.459Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:37:50.588Z - undefined - undefined - [info] : Forged new block id: 10569949573264188342 height: 5125 round: 5125 slot: 4733507 reward:500000000
+2017-11-23T13:37:54.915Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:37:59.916Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:38:00.598Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:38:00.635Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:38:00.797Z - undefined - undefined - [info] : Forged new block id: 3727471174453162434 height: 5126 round: 5126 slot: 4733508 reward:500000000
+2017-11-23T13:38:04.918Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:38:09.920Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:38:10.808Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:38:10.844Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:38:10.949Z - undefined - undefined - [info] : Forged new block id: 5462810238522747572 height: 5127 round: 5127 slot: 4733509 reward:500000000
+2017-11-23T13:38:14.920Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:38:19.921Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:38:20.962Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:38:21.003Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:38:21.109Z - undefined - undefined - [info] : Forged new block id: 7672567812507709623 height: 5128 round: 5128 slot: 4733510 reward:500000000
+2017-11-23T13:38:24.921Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:38:29.923Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:38:30.119Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:38:30.166Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:38:30.279Z - undefined - undefined - [info] : Forged new block id: 10041565107217611314 height: 5129 round: 5129 slot: 4733511 reward:500000000
+2017-11-23T13:38:34.923Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:38:39.924Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:38:40.291Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:38:40.322Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:38:40.442Z - undefined - undefined - [info] : Forged new block id: 10193400217364177481 height: 5130 round: 5130 slot: 4733512 reward:500000000
+2017-11-23T13:38:44.925Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:38:49.930Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:38:50.449Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:38:50.492Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:38:50.604Z - undefined - undefined - [info] : Forged new block id: 3565020594459124559 height: 5131 round: 5131 slot: 4733513 reward:500000000
+2017-11-23T13:38:54.932Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:38:59.933Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:39:00.616Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:39:00.647Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:39:00.803Z - undefined - undefined - [info] : Forged new block id: 8486631090492367353 height: 5132 round: 5132 slot: 4733514 reward:500000000
+2017-11-23T13:39:04.934Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:39:09.936Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:39:10.812Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:39:10.861Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:39:10.963Z - undefined - undefined - [info] : Forged new block id: 12045860880056117401 height: 5133 round: 5133 slot: 4733515 reward:500000000
+2017-11-23T13:39:14.937Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:39:19.938Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:39:20.973Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:39:21.044Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:39:21.252Z - undefined - undefined - [info] : Forged new block id: 14597227733880783573 height: 5134 round: 5134 slot: 4733516 reward:500000000
+2017-11-23T13:39:24.939Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:39:29.940Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:39:30.265Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:39:30.300Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:39:30.419Z - undefined - undefined - [info] : Forged new block id: 12427173459456970775 height: 5135 round: 5135 slot: 4733517 reward:500000000
+2017-11-23T13:39:34.941Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:39:39.943Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:39:40.429Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:39:40.472Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:39:40.606Z - undefined - undefined - [info] : Forged new block id: 13984892204559699704 height: 5136 round: 5136 slot: 4733518 reward:500000000
+2017-11-23T13:39:44.943Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:39:49.943Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:39:50.613Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:39:50.660Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:39:50.773Z - undefined - undefined - [info] : Forged new block id: 9970156955571667185 height: 5137 round: 5137 slot: 4733519 reward:500000000
+2017-11-23T13:39:54.944Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:39:59.945Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:40:00.784Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:40:00.820Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:40:00.931Z - undefined - undefined - [info] : Forged new block id: 3418622807247753001 height: 5138 round: 5138 slot: 4733520 reward:500000000
+2017-11-23T13:40:04.947Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:40:09.949Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:40:10.934Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:40:11.002Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:40:11.125Z - undefined - undefined - [info] : Forged new block id: 12617314633216320750 height: 5139 round: 5139 slot: 4733521 reward:500000000
+2017-11-23T13:40:14.949Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:40:19.949Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:40:20.137Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:40:20.187Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:40:20.386Z - undefined - undefined - [info] : Forged new block id: 16434918472891496616 height: 5140 round: 5140 slot: 4733522 reward:500000000
+2017-11-23T13:40:24.951Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:40:29.953Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:40:30.396Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:40:30.434Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:40:30.555Z - undefined - undefined - [info] : Forged new block id: 14652427974766387772 height: 5141 round: 5141 slot: 4733523 reward:500000000
+2017-11-23T13:40:34.954Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:40:39.955Z - undefined - undefined - [error] : Discovering new peers failed No acceptable peers found
+2017-11-23T13:40:40.563Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:40:40.601Z - undefined - undefined - [info] : Broadhash consensus now 0 %
+2017-11-23T13:40:41.277Z - undefined - undefined - [info] : Forged new block id: 9048042986684218885 height: 5142 round: 5142 slot: 4733524 reward:500000000
